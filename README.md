@@ -1,4 +1,4 @@
-### EXPERIMENT NO: 05
+### EX NO: 05
 ### DATE: 18.04.2022
 # <p align="center"> SIGMOID ACTIVATION FUNCTION</P>
   
@@ -34,11 +34,11 @@
 
 ## Program:
 ```
-
+/*
 Program to implement the sigmoid activation function in a feed forward ANN.
-Developed by: Shaik Khadar Basha
+Developed by: SHAIK KHADAR BASHA
 RegisterNumber:  212220230045
-
+*/
 ```
 ```python
 import numpy as np
@@ -92,8 +92,14 @@ if __name__=="__main__":
 ```
 
 ## Output:
-![Screenshot_640](https://user-images.githubusercontent.com/75235455/168613096-c802bca1-1f74-43be-82db-0ccc055239b0.png)
+![Capture8](https://user-images.githubusercontent.com/75234588/169307589-4aae089e-9fd6-431d-af59-50d85ad867bf.PNG)
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
